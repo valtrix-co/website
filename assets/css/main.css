@@ -3503,6 +3503,9 @@ blockquote {
     color: #f2f2f2;
     text-transform: none;
   }
+  .contact_button-image {
+    display: none;
+  }
 }
 @media screen and (max-width: 479px) {
   h1 {
